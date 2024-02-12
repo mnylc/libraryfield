@@ -66,11 +66,18 @@ html {
     background-position: center;
 }
 
-.page-break img {
-    width: 100vw;
-    height: 100vh;
-    object-fit: cover;
+@media only screen and (max-width: 600px) {
+    .page-break {
+        background-attachment: scroll;
+    }
+    
+    #spring {
+        background-attachment: scroll;
+        background-size: 100vw;
+        background-repeat: repeat-y;
+    }
 }
+
 
 .perspective-shift {
     font-variation-settings: "XROT" 0, "YROT" 0;
