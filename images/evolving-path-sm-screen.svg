@@ -1,0 +1,17 @@
+<svg width="378" height="1528" viewBox="0 0 378 1528" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+    path {
+        stroke-dasharray: 2 8;
+        animation: dash 5s infinite linear;
+    }
+
+    @keyframes dash {
+        to {
+            stroke-dashoffset: -100;
+        }
+    }
+</style>
+<path d="M205.353 2.27051C205.353 234.901 179.125 339.585 177.055 560.584C174.984 781.583 232.616 810.661 225.369 1095.63C218.122 1380.61 200.867 1322.45 200.867 1526" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 8"/>
+<path d="M177 561.437C174.93 782.293 79.722 815.65 72.4772 1100.44C65.2324 1385.22 2 1315.59 2 1519.01" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 8"/>
+<path d="M226.243 1001.78C219.007 1286.16 376 1321.12 376 1524.25" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 8"/>
+</svg>

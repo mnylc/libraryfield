@@ -1,0 +1,20 @@
+:root {
+    --white: hsla(0, 100%, 100%, 1);
+    --maple: hsla(90, 90%, 13%, 1);
+    --pine: hsla(120, 25%, 35%, 1);
+    --shale: hsla(210, 2%, 68%, 1);
+    --slate: hsla(235, 15%, 25%, 1);
+    --slate-opacity75: hsla(235, 15%, 25%, .75);
+    --newt: hsla(30, 100%, 35%, 1);
+    --newt-opacity50: hsla(30, 100%, 35%, .5);
+    --brush: hsla(40, 45%, 65%, 1);
+    --hay: hsla(40, 85%, 90%, 1);
+    --sunflower: hsla(48, 95%, 50%, 1);
+    --sunflower-opacity50: hsla(48, 95%, 50%, .5);
+}
+
+:root {
+    --bg-color: var(--hay);
+    --text-color: var(--slate);
+    --link-color: var(--pine);
+}

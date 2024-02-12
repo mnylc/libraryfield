@@ -1,0 +1,15 @@
+<svg width="75" height="685" viewBox="0 0 75 685" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+    path {
+        stroke-dasharray: 2 8;
+        animation: dash 5s infinite linear;
+    }
+
+    @keyframes dash {
+        to {
+            stroke-dashoffset: -100;
+        }
+    }
+</style>
+<path d="M43.0831 2C43.0831 105.969 5.07931 152.756 2.07901 251.527C-0.921288 350.298 82.587 363.294 72.086 490.657C61.5849 618.019 36.5825 592.027 36.5825 683" stroke="#ABADAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 8"/>
+</svg>

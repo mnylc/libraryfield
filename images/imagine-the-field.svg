@@ -1,0 +1,924 @@
+<svg width="660" height="404" viewBox="0 0 660 404" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+    path {
+        stroke-dasharray: 2 8;
+        animation: dash 5s infinite linear;
+    }
+
+    @keyframes dash {
+        to {
+            stroke-dashoffset: -100;
+        }
+    }
+</style>
+<path d="M24.639 80.7733C33.2321 78.0414 41.691 85.4533 40.1339 94.3505L39.9174 95.5877C39.6568 97.0769 39.1171 98.5019 38.3268 99.7877L32.505 109.26C31.3328 111.167 31.0954 113.51 31.8601 115.624V115.624C33.9514 121.405 28.4923 127.028 22.6628 125.097L10.403 121.037C4.88773 119.211 1.44829 113.701 2.23445 107.951L4.45943 91.6776C5.28328 85.6519 10.4826 81.2193 16.5601 81.3614L20.3639 81.4503C21.6872 81.4813 23.0053 81.2927 24.2649 80.8923L24.639 80.7733Z" fill="#363849"/>
+<path d="M40.6219 321.972C38.9436 313.313 46.8676 305.863 55.4072 308.071L64.0568 310.308C65.462 310.671 66.9215 310.777 68.3643 310.619L77.9964 309.567C85.0974 308.792 91.2994 314.353 91.2994 321.496V329.357C91.2994 336.33 85.377 341.835 78.423 341.325L53.0398 339.467C47.6353 339.071 43.1666 335.102 42.1355 329.782L40.6219 321.972Z" fill="#CEB47E"/>
+<mask id="mask0_643_46191" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="588" y="195" width="64" height="43">
+<path d="M630.129 200.45L617.239 200.843C616.728 200.858 616.224 200.962 615.748 201.151C613.865 201.898 611.718 201.266 610.502 199.607L609.445 198.164C606.963 194.775 602.131 194.392 599.2 197.35L591.988 204.63C589.563 207.077 588.32 210.493 588.587 213.974C588.873 217.706 590.862 221.093 593.957 223.117L613.395 235.833C616.311 237.74 619.888 238.263 623.195 237.264L644.101 230.948C649.068 229.448 652.161 224.422 651.336 219.19L651.087 217.609C650.466 213.663 647.256 210.664 643.351 210.381L641.255 210.229C638.608 210.037 636.426 208.017 635.981 205.346C635.499 202.456 632.998 200.363 630.129 200.45Z" fill="#CEB47E"/>
+</mask>
+<g mask="url(#mask0_643_46191)">
+<g clip-path="url(#clip0_643_46191)">
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 587.597 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 587.597 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 587.597 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 587.597 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 588.597 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 588.597 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 588.597 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 588.597 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.597 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.597 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.597 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.597 209.5)" fill="white"/>
+</g>
+<g clip-path="url(#clip1_643_46191)">
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 587.597 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 587.597 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 587.597 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 587.597 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 587.597 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 588.597 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 588.597 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 588.597 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 588.597 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.597 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.597 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.597 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.597 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.597 225.5)" fill="white"/>
+</g>
+<g clip-path="url(#clip2_643_46191)">
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 587.597 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 587.597 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 587.597 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 587.597 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 588.597 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 588.597 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 588.597 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.597 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.597 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.597 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.597 237.5)" fill="white"/>
+</g>
+<g clip-path="url(#clip3_643_46191)">
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 590.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 590.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 590.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 590.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 591.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 591.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 591.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 591.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 592.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 592.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 592.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 592.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 593.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 593.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 593.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 593.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 594.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 594.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 594.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 594.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 595.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 595.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 595.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 595.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 596.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 596.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 596.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 596.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 597.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 597.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 597.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 597.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 598.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 598.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 598.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 598.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 599.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 599.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 599.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 599.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 600.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 600.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 600.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 600.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 601.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 601.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 601.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 601.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 602.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 602.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 602.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 602.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 603.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 603.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 603.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 603.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 604.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 604.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 604.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 604.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 209.5)" fill="white"/>
+</g>
+<g clip-path="url(#clip4_643_46191)">
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 590.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 590.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 590.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 590.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 591.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 591.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 591.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 591.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 591.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 592.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 592.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 592.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 592.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 593.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 593.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 593.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 593.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 593.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 594.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 594.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 594.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 594.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 595.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 595.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 595.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 595.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 595.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 596.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 596.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 596.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 596.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 597.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 597.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 597.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 597.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 597.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 598.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 598.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 598.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 598.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 599.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 599.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 599.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 599.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 599.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 600.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 600.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 600.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 600.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 601.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 601.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 601.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 601.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 601.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 602.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 602.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 602.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 602.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 603.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 603.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 603.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 603.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 603.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 604.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 604.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 604.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 604.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 225.5)" fill="white"/>
+</g>
+<g clip-path="url(#clip5_643_46191)">
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 590.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 590.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 590.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 591.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 591.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 591.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 591.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 589.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 592.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 592.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 592.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 593.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 593.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 593.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 593.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 594.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 594.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 594.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 595.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 595.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 595.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 595.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 596.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 596.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 596.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 597.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 597.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 597.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 597.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 598.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 598.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 598.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 599.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 599.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 599.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 599.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 600.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 600.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 600.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 601.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 601.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 601.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 601.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 602.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 602.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 602.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 603.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 603.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 603.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 603.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 604.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 604.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 604.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 237.5)" fill="white"/>
+</g>
+<g clip-path="url(#clip6_643_46191)">
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 606.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 606.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 606.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 606.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 607.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 607.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 607.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 607.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 608.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 608.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 608.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 608.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 609.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 609.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 609.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 609.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 610.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 610.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 610.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 610.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 611.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 611.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 611.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 611.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 612.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 612.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 612.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 612.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 613.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 613.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 613.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 613.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 614.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 614.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 614.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 614.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 615.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 615.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 615.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 615.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 616.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 616.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 616.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 616.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 617.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 617.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 617.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 617.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 618.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 618.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 618.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 618.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 619.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 619.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 619.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 619.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 620.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 620.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 620.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 620.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 209.5)" fill="white"/>
+</g>
+<g clip-path="url(#clip7_643_46191)">
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 606.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 606.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 606.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 606.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 607.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 607.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 607.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 607.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 607.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 608.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 608.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 608.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 608.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 609.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 609.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 609.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 609.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 609.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 610.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 610.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 610.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 610.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 611.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 611.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 611.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 611.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 611.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 612.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 612.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 612.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 612.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 613.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 613.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 613.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 613.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 613.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 614.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 614.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 614.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 614.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 615.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 615.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 615.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 615.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 615.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 616.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 616.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 616.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 616.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 617.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 617.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 617.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 617.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 617.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 618.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 618.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 618.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 618.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 619.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 619.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 619.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 619.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 619.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 620.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 620.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 620.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 620.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 225.5)" fill="white"/>
+</g>
+<g clip-path="url(#clip8_643_46191)">
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 606.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 606.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 606.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 607.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 607.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 607.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 607.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 605.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 608.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 608.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 608.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 609.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 609.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 609.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 609.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 610.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 610.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 610.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 611.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 611.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 611.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 611.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 612.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 612.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 612.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 613.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 613.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 613.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 613.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 614.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 614.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 614.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 615.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 615.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 615.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 615.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 616.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 616.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 616.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 617.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 617.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 617.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 617.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 618.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 618.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 618.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 619.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 619.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 619.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 619.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 620.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 620.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 620.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 237.5)" fill="white"/>
+</g>
+<g clip-path="url(#clip9_643_46191)">
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 622.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 622.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 622.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 622.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 623.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 623.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 623.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 623.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 624.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 624.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 624.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 624.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 625.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 625.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 625.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 625.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 626.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 626.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 626.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 626.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 627.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 627.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 627.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 627.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 628.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 628.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 628.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 628.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 629.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 629.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 629.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 629.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 630.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 630.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 630.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 630.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 631.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 631.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 631.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 631.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 632.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 632.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 632.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 632.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 633.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 633.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 633.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 633.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 634.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 634.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 634.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 634.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 635.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 635.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 635.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 635.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 636.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 636.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 636.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 636.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 209.5)" fill="white"/>
+</g>
+<g clip-path="url(#clip10_643_46191)">
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 622.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 622.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 622.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 622.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 623.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 623.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 623.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 623.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 623.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 624.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 624.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 624.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 624.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 625.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 625.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 625.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 625.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 625.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 626.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 626.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 626.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 626.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 627.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 627.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 627.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 627.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 627.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 628.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 628.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 628.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 628.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 629.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 629.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 629.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 629.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 629.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 630.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 630.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 630.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 630.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 631.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 631.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 631.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 631.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 631.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 632.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 632.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 632.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 632.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 633.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 633.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 633.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 633.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 633.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 634.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 634.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 634.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 634.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 635.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 635.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 635.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 635.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 635.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 636.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 636.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 636.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 636.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 225.5)" fill="white"/>
+</g>
+<g clip-path="url(#clip11_643_46191)">
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 622.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 622.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 622.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 623.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 623.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 623.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 623.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 621.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 624.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 624.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 624.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 625.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 625.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 625.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 625.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 626.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 626.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 626.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 627.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 627.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 627.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 627.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 628.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 628.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 628.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 629.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 629.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 629.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 629.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 630.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 630.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 630.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 631.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 631.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 631.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 631.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 632.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 632.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 632.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 633.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 633.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 633.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 633.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 634.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 634.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 634.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 635.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 635.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 635.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 635.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 636.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 636.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 636.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 237.5)" fill="white"/>
+</g>
+<g clip-path="url(#clip12_643_46191)">
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 638.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 638.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 638.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 638.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 639.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 639.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 639.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 639.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 640.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 640.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 640.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 640.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 641.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 641.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 641.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 641.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 642.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 642.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 642.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 642.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 643.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 643.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 643.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 643.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 644.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 644.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 644.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 644.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 645.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 645.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 645.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 645.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 646.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 646.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 646.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 646.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 647.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 647.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 647.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 647.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 648.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 648.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 648.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 648.5 207.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 649.5 197.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 649.5 201.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 649.5 205.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 649.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 650.5 195.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 650.5 199.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 650.5 203.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 650.5 207.5)" fill="white"/>
+</g>
+<g clip-path="url(#clip13_643_46191)">
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 638.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 638.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 638.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 638.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 639.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 639.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 639.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 639.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 639.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 640.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 640.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 640.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 640.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 641.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 641.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 641.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 641.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 641.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 642.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 642.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 642.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 642.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 643.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 643.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 643.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 643.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 643.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 644.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 644.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 644.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 644.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 645.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 645.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 645.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 645.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 645.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 646.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 646.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 646.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 646.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 647.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 647.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 647.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 647.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 647.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 648.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 648.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 648.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 648.5 223.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 649.5 209.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 649.5 213.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 649.5 217.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 649.5 221.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 649.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 650.5 211.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 650.5 215.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 650.5 219.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 650.5 223.5)" fill="white"/>
+</g>
+<g clip-path="url(#clip14_643_46191)">
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 638.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 638.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 638.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 639.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 639.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 639.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 639.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 637.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 640.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 640.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 640.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 641.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 641.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 641.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 641.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 642.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 642.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 642.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 643.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 643.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 643.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 643.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 644.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 644.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 644.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 645.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 645.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 645.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 645.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 646.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 646.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 646.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 647.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 647.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 647.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 647.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 648.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 648.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 648.5 235.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 649.5 225.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 649.5 229.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 649.5 233.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 649.5 237.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 650.5 227.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 650.5 231.5)" fill="white"/>
+<circle cx="0.5" cy="0.5" r="0.5" transform="matrix(1 0 0 -1 650.5 235.5)" fill="white"/>
+</g>
+</g>
+<path d="M446.504 363.199C445.091 357.545 447.915 351.716 453.209 349.363L458.439 347.039C461.167 345.826 464.256 345.683 467.098 346.638L485.457 352.804C486.689 353.218 487.98 353.429 489.277 353.429L490.683 353.429C499.05 353.429 504.899 361.805 502.016 369.658L495.958 386.163C493.978 391.559 488.444 394.76 482.77 393.79L457.199 389.422C451.101 388.38 446.761 382.868 447.176 376.692L447.621 370.062C447.705 368.808 447.592 367.548 447.287 366.328L446.504 363.199Z" fill="#F9C806"/>
+<path d="M443.98 21.2797C442.302 12.6203 450.226 5.17021 458.765 7.37862L469.456 10.1433C470.861 10.5067 472.32 10.6122 473.763 10.4546L487.868 8.91392C493.908 8.25416 499.489 12.2132 500.861 18.1322L504.098 32.0907C506.002 40.302 499.069 47.866 490.724 46.6827L456.19 41.7863C451.122 41.0677 447.068 37.2136 446.094 32.1884L443.98 21.2797Z" fill="#B35900"/>
+<path d="M11.5923 136.492C6.12581 157.277 29.8177 187.628 30.7301 210.568C32.1841 247.125 15.4869 275.741 30.7302 299.042" stroke="white" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 8"/>
+<path d="M47.2012 77.2715C120.252 58.7079 101.023 8.53311 142.899 2.22541C181.926 -3.65304 191.83 107.829 260.178 58.7079C327.171 10.5612 338.97 58.8798 425.562 28.6495" stroke="white" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 8"/>
+<path d="M101.316 351.311C134.031 374.147 180.309 320.32 237.758 351.311C295.208 382.303 398.137 415.741 435.639 396.167M513.834 351.311C516.493 339.349 533.622 319.015 580.858 333.369C639.903 351.311 567.882 292.225 566.287 265.311C564.691 238.397 619.157 275.463 618.359 255.89" stroke="white" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 8"/>
+<path d="M518.02 24.3552C545.965 20.1289 599.394 35.1658 601.789 76.4381C604.783 128.028 625.742 149.889 621.037 185.303" stroke="white" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 8"/>
+<defs>
+<clipPath id="clip0_643_46191">
+<rect width="16.0027" height="16" fill="white" transform="translate(574.097 193)"/>
+</clipPath>
+<clipPath id="clip1_643_46191">
+<rect width="16.0027" height="16" fill="white" transform="translate(574.097 209)"/>
+</clipPath>
+<clipPath id="clip2_643_46191">
+<rect width="16.0027" height="16" fill="white" transform="translate(574.097 225)"/>
+</clipPath>
+<clipPath id="clip3_643_46191">
+<rect width="16.0027" height="16" fill="white" transform="translate(590 193)"/>
+</clipPath>
+<clipPath id="clip4_643_46191">
+<rect width="16.0027" height="16" fill="white" transform="translate(590 209)"/>
+</clipPath>
+<clipPath id="clip5_643_46191">
+<rect width="16.0027" height="16" fill="white" transform="translate(590 225)"/>
+</clipPath>
+<clipPath id="clip6_643_46191">
+<rect width="16.0027" height="16" fill="white" transform="translate(606 193)"/>
+</clipPath>
+<clipPath id="clip7_643_46191">
+<rect width="16.0027" height="16" fill="white" transform="translate(606 209)"/>
+</clipPath>
+<clipPath id="clip8_643_46191">
+<rect width="16.0027" height="16" fill="white" transform="translate(606 225)"/>
+</clipPath>
+<clipPath id="clip9_643_46191">
+<rect width="16.0027" height="16" fill="white" transform="translate(622 193)"/>
+</clipPath>
+<clipPath id="clip10_643_46191">
+<rect width="16.0027" height="16" fill="white" transform="translate(622 209)"/>
+</clipPath>
+<clipPath id="clip11_643_46191">
+<rect width="16.0027" height="16" fill="white" transform="translate(622 225)"/>
+</clipPath>
+<clipPath id="clip12_643_46191">
+<rect width="16.0027" height="16" fill="white" transform="translate(638 193)"/>
+</clipPath>
+<clipPath id="clip13_643_46191">
+<rect width="16.0027" height="16" fill="white" transform="translate(638 209)"/>
+</clipPath>
+<clipPath id="clip14_643_46191">
+<rect width="16.0027" height="16" fill="white" transform="translate(638 225)"/>
+</clipPath>
+</defs>
+</svg>
