@@ -740,6 +740,10 @@ nav button {
     #credits .row {
         flex-direction: column !important;
     }
+
+    .stacking-list {
+        gap: 0;
+    }
 }
 
 
