@@ -1,0 +1,156 @@
+/* ---- TYPOGRAPHY ---- */
+
+h1 {
+    font-size: 3rem;
+    line-height: 3.25rem;
+}
+h2 {
+    font-size: 2rem;
+    line-height: 2.25rem;
+}
+
+/* ---- LAYOUT ---- */
+
+:root {
+    --max-width: 800px;
+}
+
+
+/* ---- MASTHEAD ---- */
+
+#masthead {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    row-gap: 1rem;
+    padding-top: 10rem;
+}
+
+/* ---- POST ---- */
+
+#posts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8rem;
+    padding-top: 0;
+}
+
+.post {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1.5rem;
+    padding: 4rem 0 4rem;
+    border-top: 2px dashed var(--brush);
+    width: 100%;
+}
+
+.post .title {
+    max-width: var(--max-width);
+}
+
+.post .metadata {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: var(--newt);
+    max-width: var(--max-width);
+}
+
+.post p {
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+}
+
+.post .metadata span {
+    border-right: 2px dashed var(--brush);
+    padding-right: 1rem;
+    margin-right: 1rem;
+}
+
+.post .metadata span:last-child {
+    border-right: none;
+}
+
+.post .caption {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+
+.post p {
+    max-width: var(--max-width);
+}
+
+.post .quote {
+    display: flex;
+    flex-direction: column;
+    max-width: var(--max-width);
+    box-sizing: border-box;
+    color: var(--newt);
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+    padding-left: 2rem;
+    margin: 1rem 0;
+    border-left: 2px dashed var(--brush);
+}
+
+.post .quote p {
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.post .quote .credit {
+    text-align: right;
+}
+
+.post .quote .credit::before {
+    content: "— ";
+}
+
+.post img {
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.post .row-2image,
+.post .row-3image {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+
+.post .row-2image img {
+    width: calc((100% - 1rem)/2);
+}
+
+.post .row-3image img {
+    width: calc((100% - 1rem * 2)/3);
+}
+
+@media screen and (max-width: 800px) {
+    .post .row-3image {
+        flex-direction: column;
+    }
+    .post .row-3image img {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .post .row-2image {
+        flex-direction: column;
+    }
+    .post .row-2image img {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    #masthead {
+        padding-top: 16rem;
+    }
+
+}
