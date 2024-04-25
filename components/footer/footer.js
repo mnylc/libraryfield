@@ -15,8 +15,7 @@ class Footer extends HTMLElement {
                 </p>
                 <div class="button-container row">
                     <a href="mailto:libraryfield@metro.org"><button class="white">Contact</button></a>
-                    <a href="https://metro.us9.list-manage.com/subscribe?u=55e01f49515c93ceeb6d00bb4&id=e21fe69412" target="_blank><button class="white">Newsletter</button></a>
-                </div>
+                    <a href="https://metro.us9.list-manage.com/subscribe?u=55e01f49515c93ceeb6d00bb4&id=e21fe69412" target="_blank"><button class="white">Newsletter</button></a>                </div>
             </section>
         </footer>
      `;
