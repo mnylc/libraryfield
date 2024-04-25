@@ -9,6 +9,12 @@ h2 {
     line-height: 2.25rem;
 }
 
+h3 {
+    font-size: 1.75rem;
+    line-height: 2rem;
+    padding-top: 2rem;
+}
+
 /* ---- LAYOUT ---- */
 
 :root {
@@ -44,9 +50,6 @@ h2 {
     padding: 4rem 0 4rem;
     border-top: 2px dashed var(--brush);
     width: 100%;
-}
-
-.post .title {
     max-width: var(--max-width);
 }
 
@@ -54,12 +57,13 @@ h2 {
     font-size: 1rem;
     line-height: 1.5rem;
     color: var(--newt);
-    max-width: var(--max-width);
 }
 
-.post p {
-    font-size: 1.5rem;
-    line-height: 2.5rem;
+.post p,
+.post ol,
+.post ul{
+    font-size: 1.25rem;
+    line-height: 2.25rem;
 }
 
 .post .metadata span {
@@ -75,10 +79,6 @@ h2 {
 .post .caption {
     font-size: 1.25rem;
     line-height: 1.75rem;
-}
-
-.post p {
-    max-width: var(--max-width);
 }
 
 .post .quote {

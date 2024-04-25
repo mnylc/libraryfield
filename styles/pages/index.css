@@ -664,3 +664,9 @@ footer {
 footer .page {
     width: 100%;
 }
+
+@media screen and (max-width: 450px){
+    li {
+        font-size: 1rem; /* 16px */
+    }
+}

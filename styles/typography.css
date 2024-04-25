@@ -49,7 +49,8 @@ a:hover {
     color: var(--maple);
 }
 
-ul {
+ul,
+ol {
     font-size: 1.25rem; /* 20px */
     line-height: 1.75rem; /* 28px */
     list-style: square;
@@ -120,9 +121,5 @@ button.grow:hover {
     p {
         font-size: 1rem; /* 16px */
         line-height: 1.5rem; /* 24px */
-    }
-
-    li {
-        font-size: 1rem; /* 16px */
     }
 }
