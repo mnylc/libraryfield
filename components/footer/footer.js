@@ -9,12 +9,13 @@ class Footer extends HTMLElement {
                         <img class="logo" src="images/metro-logo-white.png" alt="METRO logo">
                     </a>
                 </section>
-                <p>
+                <p class="footer-tagline">
                     Library Field is a project of 
                     <a href="https://metro.org/" target="_blank">Metropolitan New York Library Council</a>
                 </p>
                 <div class="button-container row">
-                    <a href="mailto:libraryfield@metro.org"><button class="white">Reach Out</button></a>
+                    <a href="mailto:libraryfield@metro.org"><button class="white">Contact</button></a>
+                    <!-- <a href="REPLACE WITH LINK TO NEWSLETTER" target="_blank><button class="white">Newsletter</button></a> -->
                 </div>
             </section>
         </footer>

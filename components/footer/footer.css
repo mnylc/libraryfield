@@ -10,8 +10,10 @@ footer .content {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
     color: var(--white);
     padding: 4rem 0 !important;
+    gap: 2rem;
 }
 
 footer .logos,
@@ -21,6 +23,10 @@ footer .button-container {
 
 footer .logos {
     gap: 2rem;
+}
+
+footer .footer-tagline {
+    text-align: center;
 }
 
 footer .button-container {
@@ -44,7 +50,7 @@ footer a:hover {
 }
 
 @media screen and (max-width: 1024px) {
-    footer .page {
+    footer .content {
         flex-direction: column;
         align-items: center;
         gap: 3rem;
