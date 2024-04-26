@@ -13,6 +13,19 @@
     background-position: center;
 }
 
+@media only screen and (max-width: 800px) {
+    .page-break {
+        background-attachment: scroll;
+    }
+    
+    #spring {
+        background-image: url("/images/spring-page-break-800.jpg");
+        background-attachment: scroll;
+        background-size: 100vw;
+        background-repeat: repeat-y;
+    }
+}
+
 
 .perspective-shift {
     font-variation-settings: "XROT" 0, "YROT" 0;

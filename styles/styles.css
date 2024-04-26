@@ -51,14 +51,3 @@ html {
 
 }
 
-@media only screen and (max-width: 800px) {
-    .page-break {
-        background-attachment: scroll;
-    }
-    
-    #spring {
-        background-attachment: scroll;
-        background-size: 100vw;
-        background-repeat: repeat-y;
-    }
-}
